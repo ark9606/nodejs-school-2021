@@ -12,3 +12,5 @@ Home task.
 
 [GIT trainer](https://learngitbranching.js.org/)
 
+[GIT workflow](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow)
+
