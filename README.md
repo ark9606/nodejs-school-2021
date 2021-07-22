@@ -9,3 +9,5 @@ Home task.
 
 #### Links:
 [GIT cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+[GIT trainer](https://learngitbranching.js.org/)
+
