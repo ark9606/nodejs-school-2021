@@ -14,3 +14,5 @@ Home task.
 
 [GIT workflow](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow)
 
+[JavaScript book](https://learn.javascript.ru/)
+
