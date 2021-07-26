@@ -7,7 +7,7 @@ Yalantis Node.js School
 
 Home task.
 
-#### Links:
+#### Useful links:
 [GIT cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 [GIT trainer](https://learngitbranching.js.org/)
