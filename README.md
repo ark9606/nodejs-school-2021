@@ -24,4 +24,6 @@ Yalantis Node.js School
 :house: Home task
 
 #### Useful links:
+[NVM guide](https://ua-blog.com/%D1%82%D1%83%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB-%D0%BF%D0%BE-node-version-manager-nvm)
 
+[Node.js tutorial](https://nodejs.dev/learn)
