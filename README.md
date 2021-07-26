@@ -19,7 +19,7 @@ Yalantis Node.js School
 [var vs let vs const](https://www.valentinog.com/blog/var/)
 
 ### 3. Node.js basics.
-:green_book: Presentation
+[:green_book: Presentation](https://docs.google.com/presentation/d/1J3_kbBULUE9K7JshwLpJQgfm9wjNyTR8IeIisgC68Pk)
 
 :house: Home task
 
