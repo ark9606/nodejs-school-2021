@@ -5,7 +5,7 @@ Yalantis Node.js School
 ### 1. VCS & Core JS concepts.
 [:green_book: Presentation](https://docs.google.com/presentation/d/1w18oAi4gWvwXAoC2g9I1hB-Rwz0l13TBycZPTw4SzJ4)
 
-:house: Home task.
+:house: Home task
 
 #### Useful links:
 [GIT cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
