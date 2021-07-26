@@ -16,3 +16,4 @@ Home task.
 
 [JavaScript book](https://learn.javascript.ru/)
 
+[var vs let vs const](https://www.valentinog.com/blog/var/)
